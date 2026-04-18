@@ -1,6 +1,6 @@
 # Hi, I'm a Developer from Hesse 👋
 
-💻 22 years old Developer at NextHosting  
+💻 22 years old Developer 
 🚀 Focused on Web Development & Infrastructure  
 📍 Germany  
 
@@ -20,4 +20,4 @@ I work on web systems and hosting infrastructure, building scalable and reliable
 ---
 
 ## 💼 Work
-**NextHosting** – Developer  
+Developer  
